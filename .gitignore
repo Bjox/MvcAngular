@@ -1,0 +1,5 @@
+packages/
+ngGitHouse/bin/
+ngGitHouse/obj/
+ngGitHouse/node_modules/
+.vs/
