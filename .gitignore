@@ -3,3 +3,5 @@ ngGitHouse/bin/
 ngGitHouse/obj/
 ngGitHouse/node_modules/
 .vs/
+ngGitHouse/Scripts/libs
+ngGitHouse/Scripts/out-tsc
